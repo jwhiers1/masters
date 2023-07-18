@@ -1,4 +1,4 @@
-# masters
+# Master's
 * Title: (SPAD) Sequel Personal Address Database.
 * Purpose: this is a requirement for my Master's Degree.
 * Description: A powerful comprehensive database with record management, record access and contact management.
