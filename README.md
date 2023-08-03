@@ -1,6 +1,6 @@
 # masters
 * Title: (SPAD) Sequel Personal Address Database.
-* Purpose: this is a requirement for my Master's Degree.
+* Purpose: This is a requirement for my Master's Degree.
 * Description: A powerful comprehensive database with record management, record access and contact management.
 * I used Python, SQLite3 and TKinter.
 * Python has many features, SQLite3 is the most popular software of its kind and TKinter provides the GUI.
